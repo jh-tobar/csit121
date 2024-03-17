@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 230, 197);
+}
+
+h1 {
+    background-color: rgb(232, 186, 126);
+    color:rgb(89, 56, 56);
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    text-transform: uppercase ;
+}
+
+h2{
+    background-color: rgb(232, 186, 126);
+    color:rgb(89, 56, 56);
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
+
+p{
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    color: rgb(109, 49, 36);
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
+
+li, a { 
+    color:rgb(89, 56, 56); 
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
