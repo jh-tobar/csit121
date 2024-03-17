@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(255, 230, 197);
+}
+
+.OgRecipeImg{
+margin-left: 45%;
+margin-right: 50%;
+filter:drop-shadow(10px 10px 10px tan)
+}
+
+.CenterLink1{
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(232, 186, 126);
+    color:rgb(89, 56, 56);
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    text-transform: uppercase ;
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(232, 186, 126);
+    color:rgb(89, 56, 56);
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    text-align: center;
+}
+
+.steps{
+    background-image: url(https://i2.pickpik.com/photos/911/363/678/coffee-paper-background-stain-preview.jpg);
+    background-size:cover;
+    border-style:dotted;
+    text-align: center;
+    list-style-position: inside;
+    box-shadow: 10px 10px 10px rgba(157, 99, 42, 0.549);
+    
+}
+
+p{
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    color: rgb(109, 49, 36);
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
+
+li, a { 
+    color:rgb(89, 56, 56); 
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
