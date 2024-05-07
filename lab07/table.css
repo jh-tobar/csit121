@@ -1,0 +1,40 @@
+body{
+    margin:10px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 30%;
+}
+
+table{
+    color:#6c1582;
+    border: 1px solid #6c1582;
+    border-collapse:collapse;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fdf3ff;
+    box-shadow: 1em 1em 20px #ff8aec;
+    overflow: hidden;
+}
+
+td, th{
+    padding: 5px;
+    text-align: left;
+}
+
+th{
+    font-family:sans-serif;
+    border: solid; 
+}
+
+td{
+    border:solid; 
+    font-family:monospace;
+}
+
+td :hover{
+    color:blue;
+}
