@@ -1,0 +1,258 @@
+body {
+    color: #A30039;
+    background-color: #f9eee3;
+    background-image: url(https://garden.spoonflower.com/c/11549529/p/f/m/vIC1Uu-VujrvcaiJhpqNzQ9hfJKZaVw4AKW51gZplgU5Icgo4HXf/Color%20Map%20v2.1%20LL23%20%23F4DCE1%20Horizon%20Pink%20.jpg);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0px;
+}
+
+
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    padding: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.menu {
+    background-color: #ffa8c6;
+    overflow: hidden;
+    padding: 10px;
+}
+  
+.menu a {
+    color: #6B0025;
+    text-decoration: none;
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+}
+  
+.menu a.home {
+    float: left;
+}
+
+.menu a:hover {
+    color: #bbf6fd;
+}
+
+.menu a:visited {
+    color: rgb(109, 88, 92);
+}
+
+.bod{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#welcomegif {
+    width: 50%;
+    display: block;
+    margin: auto;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+#wparagraph{
+    width: 60%;
+    padding-top: 20%;
+    background-color: #ffe4ee;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    color: rgb(184, 0, 0);
+    border: 2px solid #ff6fa1;
+    box-shadow: 10px 10px #f59dbc;
+    text-align: center;
+}
+
+footer{
+    display: flex;
+    background-color: #ed84a9;
+    color: #373232;
+    overflow: hidden;
+    height: 300px;
+    padding: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: #6B0025;
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: #bbf6fd;
+}
+
+footer a:visited {
+    color: rgb(109, 88, 92);
+}
+
+
+.leftlinks{
+    float: left;
+    padding: 10px;
+    margin-right: 30px;
+}
+
+.rightlinks{
+    float:right;
+    padding: 10px;
+}
+
+form{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+.contactform{
+    display: flex;
+    float: right;
+    display: block;
+    margin: auto;
+    color: rgb(139, 1, 1);
+    background-color: #ffb5cf;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid #d97296 ;
+}
+
+#jen {
+    width: 30%;
+    display: block;
+    margin: auto;
+    height: auto;
+    border-radius: 50%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+#abtparagraph{
+    width: 60%;
+    padding-top: 20%;
+    background-color: #ffe4ee;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    color: rgb(184, 0, 0);
+    border: 2px solid #ff6fa1;
+    box-shadow: 10px 10px #f59dbc;
+}
+
+#aboutme{
+    float: left;
+}
+
+img {
+        flex-direction: column;
+        flex-wrap: wrap;
+		justify-content: space-between; 
+        margin: auto;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        width: 200px;
+        height: 200px;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+.nparagraph{
+    width: 60%;
+    padding-top: 20%;
+    background-color: #ffe4ee;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    color: rgb(184, 0, 0);
+    border: 2px solid #ff6fa1;
+    box-shadow: 10px 10px #f59dbc;
+    text-align: center;
+}
+
+.naillists{
+    text-align: left;
+    list-style-position:inside;
+}
+
+ol {
+    text-align: left;
+    list-style-position: inside;
+    background-color: #ffdce8;
+    border: 2px solid #ff75a5;
+    padding: 10px;
+}
+
+ol a{
+    color:#e00040;
+}
+
+
+iframe{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+ }
+
+ table{
+    color:#6B0025;
+    border: 1px solid #ff669c;
+    border-collapse:collapse;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffe4ee;
+    box-shadow: 1em 1em 20px #ffb1ce;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+table a{
+    text-decoration: none;
+    color: rgb(196, 0, 111);
+}
+
+table a{
+    text-decoration: none;
+    color: rgb(196, 0, 111);
+}
+
+td, th{
+    padding: 5px;
+    text-align: left;
+}
+
+th{
+    font-family:sans-serif;
+    border: solid; 
+}
+
+td{
+    border:solid; 
+    font-family:monospace;
+}
+
+table a:hover {
+    color: #008d9d;
+}
+
+table a:visited {
+    color: rgb(109, 88, 92);
+}
+
+@media only screen and (max-width: 768px) {
+     body {
+      background-color: #f9eee3;
+    }
+}
