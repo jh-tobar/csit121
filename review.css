@@ -1,0 +1,84 @@
+*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    background-color: #ff8fd8;
+    padding: 10px 10px 10px;
+    border: 5px solid #180010;
+    text-align: center;
+}
+
+.barbieposter1{
+    display: block;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 40%;
+    height: 20%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    float:left;
+}
+
+.barbieposter2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 20%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+body{
+    background-color: #ffc9e9;
+    margin: 50px;
+}
+
+#cast{
+    color:#910063;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.footerbox {
+    background-color: #180010;
+    padding: 10px 10px 10px;
+    border: 5px solid #ff5bc8;;
+    color: #ff5bc8;
+    margin-top: 20px;
+}
+
+
+.footerbox a{
+    color:#ff1cb3; 
+}
+
+.footerbox a:hover{
+    color:#1cb0ff; 
+}
+
+@media only screen and (min-width: 768px){
+    .flex{
+        display:flex;
+    }
+ }
+
+ iframe{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: auto;
+ }
+
+ audio{
+    display: block;
+    margin: auto;
+ }
+
+ .media{
+text-align: center;
+ }
